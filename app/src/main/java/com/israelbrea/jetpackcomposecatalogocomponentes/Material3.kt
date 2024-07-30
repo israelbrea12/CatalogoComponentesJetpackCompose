@@ -17,7 +17,7 @@ import androidx.compose.ui.tooling.preview.Preview
 @Composable
 fun MyFilledTonalButton(){
     FilledTonalButton(onClick = {  }) {
-        Text(text = "IbreapiDevs")
+        Text(text = "IbrepiDevs")
     }
 }
 
@@ -25,7 +25,7 @@ fun MyFilledTonalButton(){
 @Composable
 fun MyElevatedButton(){
     ElevatedButton(onClick = {  }) {
-        Text(text = "IbreapiDevs")
+        Text(text = "IbrepiDevs")
     }
 }
 
